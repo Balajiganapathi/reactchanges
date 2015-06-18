@@ -3,7 +3,7 @@ A summary of changes made to React.js since version 0.4 for easy reference
 
 # React 0.5
 
-No longer transform class to className as part of the transform! This is a breaking change - if you were using class, you must change this to className or your components will be visually broken.
+1. No longer transform class to className as part of the transform! This is a breaking change - if you were using class, you must change this to className or your components will be visually broken.
 
 # React 0.6
 
