@@ -42,7 +42,7 @@ No breaking changes
 
 # React 0.11.2
 
-1. <picture> is now parsed into React.DOM.picture
+1. picture is now parsed into React.DOM.picture
 
 # React 0.12
 
